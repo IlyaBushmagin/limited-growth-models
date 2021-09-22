@@ -11,4 +11,4 @@ The inflection point is found from the natural logarithm of the slope coefficien
 <img width="407" alt="btc_2" src="https://user-images.githubusercontent.com/47636259/133412926-c3c74f02-fe9d-4f9b-8dde-c3be698f5be5.png">
 <img width="426" alt="btc_1" src="https://user-images.githubusercontent.com/47636259/133412960-2880f7ce-6b2e-471b-92f4-640e8137a943.png">
 
-Прикладные задачи математической статистики. В.И. Кузьмин, А.Ф. Гадзаов – МИРЭА (ТУ) – 2011г.
+Методы построения моделей по эмпирическим данным. В.И. Кузьмин, А.Ф. Гадзаов – МИРЭА (ТУ) – 2012г.
