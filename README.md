@@ -1,7 +1,7 @@
-# Gompertz-function
-Analysis of Bitcoin price data for compliance with the Gompertz function
+# Gompertz-model
+Analysis of Bitcoin price data for compliance with the Gompertz model
 
-The data corresponding to the Gompertz function are straighten in coordinates:
+The data corresponding to the Gompertz model are straighten in coordinates:
 
 ![image](https://user-images.githubusercontent.com/47636259/133411036-48ed5786-369b-4ab2-9692-75c6b73d5e64.png)
 <img width="417" alt="btc_3" src="https://user-images.githubusercontent.com/47636259/133412862-4fd1d08a-5c35-4999-b76a-007dc72d3a87.png">
