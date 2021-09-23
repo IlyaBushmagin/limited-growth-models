@@ -1,5 +1,5 @@
 # Gompertz-model
-Analysis of Bitcoin price data for compliance with the Gompertz model
+Bitcoin price data analysis
 
 The data corresponding to the Gompertz model are straighten in coordinates:
 
